@@ -1,1 +1,5 @@
-# java_study
+# 자바스터디를 위한 레퍼지토리입니다.
+
+## 1. 자바 기본 스터디
+
+[점프투자바](https://wikidocs.net/book/31)
